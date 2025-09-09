@@ -1,0 +1,5 @@
+[
+  { "x": 120, "y": 150, "density": "high" },
+  { "x": 200, "y": 250, "density": "medium" },
+  { "x": 300, "y": 100, "density": "low" }
+]
