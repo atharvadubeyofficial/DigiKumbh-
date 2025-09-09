@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { View, Text, TextInput, TouchableOpacity, StyleSheet } from "react-native";
 import cleanlinessData from "../data/cleanliness.json";
 
-export default function CleanlinessScreen({ navigation }) {
+export default function CleanlinessScreen() {
   const [location, setLocation] = useState("");
   const [issue, setIssue] = useState("");
   const [submitted, setSubmitted] = useState(false);
