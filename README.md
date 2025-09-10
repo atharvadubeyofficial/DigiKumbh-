@@ -27,6 +27,15 @@ DigiKumbh provides a **digital-first solution** by integrating:
   
 
 ---
+## Instructions to Run the Prototype:
+For Terminal:-
+Step 1 :- git clone https://github.com/atharvadubeyofficial/DigiKumbh-.git
+cd DigiKumbh-
+Step 2 :- npm install
+Step 3 :- npx expo start
+For mobile testing:- npx expo start --tunnel
+OR, Using Expo Go App for Android/IOS after running npx expo start --tunnel
+Scan the QR code by Expo Go App and Run the Prototype Easily.
 
 ## 3. Logic & Workflow
 
@@ -45,15 +54,15 @@ DigiKumbh provides a **digital-first solution** by integrating:
   • Access chatbot, guidance, maps, and event updates.  
 
 - **Admin Side:**  
-  • Dashboard to track crowd density, announcements, and issue management.  
+  • Dashboard to track crowd density & Heatmaps, announcements, and issue management.  
 
 ---
 
 ## 4. Tech Stack
-- **Frontend:** Streamlit (with custom dark-blue theme)  
+- **Frontend:** Node.js , React.js
 - **Backend:** Python (Flask/Streamlit APIs)  
-- **Database:** SQLite / Firebase (for prototype)  
-- **AI:** Python (NLP-based Chatbot – KumbhAI)  
+- **Database:** SQLite / Firebase (for future)  
+- **AI:** Python (NLP-based Chatbot – KumbhAI) Extendable 
 - **Other Tools:** GitHub, Streamlit Cloud, Google Maps API (future integration)  
 
 ---
