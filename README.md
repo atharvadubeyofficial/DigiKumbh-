@@ -47,8 +47,8 @@ https://github.com/atharvadubeyofficial/DigiKumbh-
 
 - 4. Once setup is complete, click Run → The app will start in Replit’s browser environment.
 
-- OR, **Live Deployed Link (Check Easily) for your convenience, if any error occurs in above steps**
-- 
+- OR, **Live Deployed Link (Check Easily) for your convenience, if any error occurs in above steps(Use this already deployed Streamlit link of DigiKumbh with same features as per prototype also we can download csv files in Admin side of this version**
+- Streamlit:- https://digikumbhprototype.streamlit.app/
 
 ## 3. Logic & Workflow
 
