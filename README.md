@@ -34,7 +34,7 @@ DigiKumbh provides a **digital-first solution** by integrating:
 - Step 1 :- git clone https://github.com/atharvadubeyofficial/DigiKumbh-.git
 cd DigiKumbh-
 - Step 2 :- npm install
-- Step 3 :- npx expo start
+- Step 3 :- npm start or npx expo start then press w
 - For mobile testing:- npx expo start --tunnel (if it asks to download any other dependency so kindly download it for good experience)
 - OR, Using Expo Go App for Android/IOS after running npx expo start --tunnel
 - Scan the QR code by Expo Go App and Run the Prototype Easily(for mobile experience).
